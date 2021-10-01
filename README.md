@@ -11,7 +11,7 @@ College: Rajiv Gandhi Institute of Technology, Kottayam
 ## Problem Statement
 As the pandemic goes by, psychological state has become a vital side of our daily lives. Individuals still become a vital side of our daily lives. Individual still don't feel comfortable to speak to people regarding their psychological state and frequently tend to keep their isues to themselves this typically results in the build-up stress in their minds.
 
-# Personas of the system
+## Personas of the system
 
 The software system is mainly created for users who are facing mental stress and loneliness. 
 
