@@ -8,10 +8,10 @@
 
 College: Rajiv Gandhi Institute of Technology, Kottayam
 
-#Problem Statement
+## Problem Statement
 As the pandemic goes by, psychological state has become a vital side of our daily lives. Individuals still become a vital side of our daily lives. Individual still don't feel comfortable to speak to people regarding their psychological state and frequently tend to keep their isues to themselves this typically results in the build-up stress in their minds.
 
-#Personas of the system
+# Personas of the system
 
 The software system is mainly created for users who are facing mental stress and loneliness. 
 
@@ -28,7 +28,7 @@ RASA is an open-source framework used to Build contextual AI assistants and chat
 # Mental Health Chatbot development and Getting Started with RASA:
 
 
-#Rasa Architecture
+# Rasa Architecture
 
 The diagram below provides an overview of the Rasa Open Source architecture. The two primary components are Natural Language Understanding (NLU) and dialogue management.
 
