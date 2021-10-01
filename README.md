@@ -60,7 +60,7 @@ Once all of that has been done, open the Anaconda Prompt application and â€˜cdâ€
     pip install rasa
 
 
-#2. Setup the  project
+## 2. Setup the  project
 rasa init:
 >command creates a new Rasa project in a local directory, which you will specify by providing the directory name.
 
