@@ -28,7 +28,7 @@ RASA is an open-source framework used to Build contextual AI assistants and chat
 # Mental Health Chatbot development and Getting Started with RASA:
 
 
-# Rasa Architecture
+## Rasa Architecture
 
 The diagram below provides an overview of the Rasa Open Source architecture. The two primary components are Natural Language Understanding (NLU) and dialogue management.
 
@@ -40,7 +40,7 @@ The dialogue management component decides the next action in a conversation base
 
 RASA Installation and Setup
 #1. Install RASA
-###Prerequisite:
+### Prerequisite:
     1. Download Anaconda Prompt 
     2. Download Microsoft build tools here.
     3. Create a directory on your system where you would like to store your Rasa project.
